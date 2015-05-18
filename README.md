@@ -14,7 +14,7 @@ First, get cookiecutter. Trust me, it's awesome::
 
 Now run it against this repo::
 
-    $ cookiecutter --checkout develop https://github.com/aptivate/cc_dye_django-mysql.git
+    $ cookiecutter --checkout master https://github.com/aptivate/cc_dye_django-mysql.git
 
 You'll be prompted for some questions, answer them, then it will create a Django project for you.
 
