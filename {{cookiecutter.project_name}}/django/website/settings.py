@@ -109,7 +109,7 @@ if path.isdir(LOCALE_DIR):
     LOCALE_PATHS = (LOCALE_DIR,)
 
 ########## APP CONFIGURATION
-INSTALLED_APPS_APPS = (
+INSTALLED_APPS = (
     # Default Django apps:
     'django.contrib.auth',
     'django.contrib.contenttypes',
