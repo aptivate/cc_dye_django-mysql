@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2.7
 from __future__ import unicode_literals, absolute_import
 """
 bootstrap.py will set up a virtualenv for you and update it as required.
