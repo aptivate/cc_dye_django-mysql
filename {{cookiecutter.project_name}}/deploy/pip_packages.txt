@@ -1,6 +1,6 @@
 # NOTE After setup, consider pinning to a vertion or commit
 
--e git+git://github.com/aptivate/dye.git#egg=dye
+-e git+git://github.com/aptivate/dye.git@develop#egg=dye
 
 # core django
 Django
