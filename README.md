@@ -1,4 +1,4 @@
-## Cookie Cutter - Dye - Django w/ MySQL Bare bones
+## Cookie Cutter - Dye - Django w/ MySQL Bare bones -- DO NOT USE ->> use the template that comes with [dye](https://github.com/aptivate/dye)
 
 This is a basic [cookie cutter](https://github.com/audreyr/cookiecutter) template for deploying Django 1.8 with MySQL using with Aptivate's [dye](https://github.com/aptivate/dye) project.
 
